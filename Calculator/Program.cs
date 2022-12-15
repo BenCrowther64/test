@@ -81,6 +81,8 @@
 
                 string op = Console.ReadLine();
 
+                // Test comment
+
                 try
                 {
                     result = Calculator.DoOperation(cleanNum1, cleanNum2, op);
